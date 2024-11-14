@@ -1,0 +1,3 @@
+C:/Users/israe/OneDrive/Documentos/GitHub/Gesti-n-memoria-Israel-Lara/cmake-build-debug/CMakeFiles/Gesti_n_memoria_Israel_Lara.dir
+C:/Users/israe/OneDrive/Documentos/GitHub/Gesti-n-memoria-Israel-Lara/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/israe/OneDrive/Documentos/GitHub/Gesti-n-memoria-Israel-Lara/cmake-build-debug/CMakeFiles/rebuild_cache.dir
